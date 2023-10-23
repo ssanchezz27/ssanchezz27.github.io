@@ -1,0 +1,18 @@
+.plans-container-slider {
+    justify-content: center;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1020px;
+    margin: auto;
+}
+
+.main-tables-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1020px;
+    margin: auto;
+}
+
